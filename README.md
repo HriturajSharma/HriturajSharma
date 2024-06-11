@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_600_2000/0/1646907885048?e=2147483647&v=beta&t=9I6AOJ9-DyXZhVk47FH0HZWLMB_ePf6Ilc2aMIFchQM)
+![MasterHead](https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_600_2000/0/1646907885048?e=2147483647&v=beta&t=9I6AOJ9-DyXZhVk47FH0HZWLMB_ePf6Ilc2aMIFchQM](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)
 <h1 align="center">Hi 👋, I'm Hrituraj Sharma</h1>
 <h3 align="center">A frontend developer from Mumbai.</h3>
 
