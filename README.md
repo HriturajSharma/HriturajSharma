@@ -1,18 +1,17 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)
 <h1 align="center">Hi 👋, I'm Hrituraj Sharma</h1>
-<h3 align="center">A frontend developer from Mumbai.</h3>
+<h3 align="center">A MERN Stack developer from Mumbai.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hriturajsharma&label=Profile%20views&color=0e75b6&style=flat" alt="hriturajsharma" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m a **Front-end Stack Development**
 
-- 💬 Ask me about **Html , Css , Javascript , React js**
+- 💬 Ask me about **Html , Css , Javascript , React js , Node js , MongoDb , Express.js**
 
 - 📫 How to reach me **sharmahrituraj2003@gmail.com**
 
-- ⚡ Fun fact **I Think I am Funny 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +31,7 @@
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
      <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>  
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg](https://tse3.mm.bing.net/th?id=OIP.NudVvrRpz5DTK_861m0jeQHaHa&pid=Api&P=0&h=180)" alt="nodejs" width="40" height="40"/> </a>
+<!--   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg](https://tse3.mm.bing.net/th?id=OIP.NudVvrRpz5DTK_861m0jeQHaHa&pid=Api&P=0&h=180)" alt="nodejs" width="40" height="40"/> </a> -->
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hriturajsharma&show_icons=true&locale=en&layout=compact" alt="hriturajsharma" /></p>
