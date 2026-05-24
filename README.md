@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hriturajsharma&label=Profile%20views&color=0e75b6&style=flat" alt="hriturajsharma" /> </p>
 
-- 🌱 I’m a **Front-end Stack Development**
+- 🌱 I’m a **MERN Stack Developer**
 
-- 💬 Ask me about **Html , Css , Javascript , React js , Node js , MongoDb , Express.js**
+- 💬 Ask me about **Html , Css , Javascript , React js , Node js , MongoDb , Express.js etc**
 
 - 📫 How to reach me **sharmahrituraj2003@gmail.com**
 
